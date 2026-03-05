@@ -57,7 +57,7 @@ body{
     transition: 0.3s;
 }
 .links a:hover{
-    background-color: #ffd6e893;
+    background-color: #f85da093;
 }
 .links i{
     width: 18px;
